@@ -12,5 +12,8 @@ public class AtmProject
         //version 3
         System.out.println("Git öğrenmek çok kolay.");
         //version 4
+
+        System.out.println("bahadir branch'i kodlarını yazdı.");
+        //version bhdr 1.
     }
 }
