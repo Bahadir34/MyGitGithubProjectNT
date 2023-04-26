@@ -15,5 +15,7 @@ public class AtmProject
 
         System.out.println("bahadir branch'i kodlarını yazdı.");
         //version bhdr 1.
+
+        System.out.println("Bir kısım kodlar.");
     }
 }
