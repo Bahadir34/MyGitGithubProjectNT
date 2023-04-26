@@ -17,5 +17,9 @@ public class AtmProject
         //version bhdr 1.
 
         System.out.println("Bir kısım kodlar.");
+        // bahadir
+
+        System.out.println("Bazı kodlar");
+        //bhdr2
     }
 }
