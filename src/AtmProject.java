@@ -10,20 +10,21 @@ public class AtmProject
         //version 2
         System.out.println("Learn Java  earn money.");
         //version 3
-        System.out.println("Git öğrenmek çok kolay.");
+        System.out.println("Git Ã¶ÄŸrenmek Ã§ok kolay.");
         //version 4
 
-        System.out.println("bahadir branch'i kodlarını yazdı.");
+        System.out.println("bahadir branch'i kodlarÄ±nÄ± yazdÄ±.");
         //version bhdr 1.
 
-        System.out.println("Bir kısım kodlar.");
+        System.out.println("Bir kÄ±sÄ±m kodlar.");
         // bahadir
 
-        System.out.println("Bazı kodlar");
+        System.out.println("BazÄ± kodlar");
         //bhdr2
 
-	   System.out.println("Lokalede de�i�iklik yapt�m.");
+	   System.out.println("Lokalede değişiklik yaptım.");
         //master
 
+	    //remote'da değişiklik yaptım.
     }
 }
