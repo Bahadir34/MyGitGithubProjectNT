@@ -21,5 +21,9 @@ public class AtmProject
 
         System.out.println("BazÄ± kodlar");
         //bhdr2
+
+	   System.out.println("Lokalede deðiþiklik yaptým.");
+        //master
+
     }
 }
