@@ -5,7 +5,7 @@ public class Account
     {
         System.out.println("Bazi kodlar yazildi.");
         System.out.println("That is new commit after cloned project from github.");
-        System.out.println("That line updated on Github. Will pull to local.");
+        System.out.println("That line updated on Github. Will pull to local .");
 
     }
 
